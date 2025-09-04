@@ -1,6 +1,6 @@
-# Calculadora de Frete MetalMecânico
+# Calculadora de Frete
 
-Aplicação em JavaScript que calcula o frete para uma empresa do ramo metalmecânico, considerando quantidade de peças, região de entrega, distância e opção de rastreamento.
+Aplicação em JavaScript que calcula o frete para uma empresa, considerando quantidade de peças, região de entrega, distância e opção de rastreamento.
 
 ## Funcionalidades
 
